@@ -1,0 +1,42 @@
+# API and HTTP
+httpx
+requests
+fastapi
+uvicorn
+python-multipart
+
+# Data processing
+numpy
+scikit-learn
+scipy 
+pandas
+python-dateutil  # Fixed: removed incorrect .post0 suffix
+six
+tzdata
+
+# Image handling
+Pillow
+
+# Time zones and date handling
+pytz 
+geopy
+
+# RSS feed parsing
+atoma
+
+# HTML parsing
+beautifulsoup4
+
+# Document processing
+PyPDF2
+
+# Environment management
+python-dotenv
+
+# XML processing
+lxml
+
+# Text processing
+fuzzywuzzy
+python-Levenshtein
+python-jose[cryptography]
